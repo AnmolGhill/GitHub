@@ -34,7 +34,7 @@ A modern GitHub clone built with React, Vite, and Tailwind CSS.
 - Node.js (v16 or higher)  
 - npm or yarn  
 
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash
